@@ -1,10 +1,11 @@
+
 body{
     background-color:grey;
 }
 
 div{
     display: block;
-    color: black;
+    color: rgb(246, 242, 255);
     
 }
 #location{
@@ -18,23 +19,23 @@ div{
 
 #Accomplishments{
     display: static;
-    border: 2px solid white;
+    border: 2px solid rgb(252, 230, 148);
 
     padding: 20px;
 
     align-items: center;
     margin: 0 -8px;
-    background-color: lightblue;
+    background-color: rgb(150, 173, 200);
 }
 
 #Job-Experience{
   display: static;
   padding: 20px;
   margin: 0 -8px;
-  border: 2px solid white;
+  border: 2px solid rgb(252, 230, 148);
   align-items: center;
   justify-content: center;
-  background-color: rgb(254, 95, 85);
+  background-color: rgb(150, 173, 200);
  
 }
 
@@ -46,14 +47,14 @@ div{
     margin: 100px auto 0 auto;
 }
 .navbar{
-    
+    color:white;
     display: flex;
     text-align: center;
     justify-content: space-evenly;
     padding: 10px;
     margin: -10px -8px;
     height: 50px;
-    background-color: black;
+    background-color: rgb(0, 21, 20);
 }
 
 #button1, #button2, #button3, #button4, #button5, #button6{
@@ -64,7 +65,7 @@ div{
     padding: 10px 20px;
     border-radius: 5px;
 
-    border: 2px solid white;
+    border: 2px solid rgb(252, 230, 148);
 }
 #about-me p{
     margin: 0 300px;
@@ -73,10 +74,10 @@ div{
 
 }
 #about-me{
-    background-color: maroon;
+    background-color: rgb(227, 100, 20);
     padding: 30px;
     margin: 0 -8px;
-    border: 2px solid white;
+    border: 2px solid rgb(252, 230, 148);
 }
 
 #robot{
@@ -90,7 +91,7 @@ div{
     width: 350px;
 }
 .footer{
-    background-color: black;
+    background-color: rgb(0, 21, 20);
     color: white;
     text-align: center;
     padding: 10px;
@@ -100,10 +101,10 @@ div{
 
 #education{
     display: static;
-    border: 2px solid white;
+    border: 2px solid rgb(252, 230, 148);
     padding: 20px;
     margin: 0 -8px;
-    background-color: rgb(12, 165, 111);
+    background-color: rgb(227, 100, 20);
 }
 
 #profile-pic{
@@ -111,10 +112,10 @@ div{
     margin: 20px auto;
     width: 500px;
     height: 600px;
-    border: 3px solid white;
+    border: 3px solid rgb(252, 230, 148);
 }
 #button1{
-    background-color: maroon;
+    background-color: blue;
 }
 #button2{
     background-color: lightblue;
